@@ -1,0 +1,18 @@
+{
+    "openshift": {
+        "ocp": "OpenShift Container Platform",
+        "okd": "The Origin community distribution of kuberentes (formerly OpenShift Origin)",
+        "rhoo": "Red Hat OpenShift Online",
+        "ipi": "Installer Provisioned Infrastructure",
+        "upi": "User Provisioned Infrastructure",
+        "bmh": "Bare Metal Host",
+        "bmo": "Bare Metal Operator",
+        "crd": "Custom Resource Definition",
+        "mco": "Machine Config Operator",
+        "capbm": "Cluster API Provider BareMetal"
+    },
+    "redhat": {
+        "rhel": "Red Hat Enterprice Linux",
+        "rhcos": "Red Hat Enterprise Linux CoreOS"
+    }
+}
